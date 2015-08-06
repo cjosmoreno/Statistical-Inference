@@ -15,7 +15,7 @@ Illustrate via simulation and associated explanatory text the properties of the 
 
     Show where the distribution is centered at and compare it to the theoretical center of the distribution.
 
-setwd("C:/Users/CarlosJosé/Desktop/Data Mining/Jonhs Hopkins/Ciencia de Datos/Statistical Inference")
+setwd("C:/Users/CarlosJosÃ©/Desktop/Data Mining/Jonhs Hopkins/Ciencia de Datos/Statistical Inference")
 library(lattice)
 library(gplots)
 
